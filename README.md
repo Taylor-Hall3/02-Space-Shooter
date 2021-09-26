@@ -3,6 +3,7 @@ This is a 2d space shooter built as a project for C220 class at IU on 09/25/2021
 Control the ship using w,a,s,and d
 aim with mouse
 shoot using left click or spacebar
+you can shoot to break black objects and purple projectiles
 
 This game took inspiration from the game Nier: Automata 
 ## Implementation
